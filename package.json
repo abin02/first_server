@@ -1,0 +1,19 @@
+{
+  "name": "first_server",
+  "version": "1.0.0",
+  "description": "first server using nodejs",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abin02/first_server.git"
+  },
+  "author": "Abin Chandran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abin02/first_server/issues"
+  },
+  "homepage": "https://github.com/abin02/first_server#readme"
+}
