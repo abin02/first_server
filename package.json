@@ -4,7 +4,8 @@
   "description": "first server using nodejs",
   "main": "server.js",
   "scripts": {
-    "start": "node server.js"
+    "start": "node server.js",
+    "dev": "nodemon server.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/abin02/first_server/issues"
   },
-  "homepage": "https://github.com/abin02/first_server#readme"
+  "homepage": "https://github.com/abin02/first_server#readme",
+  "dependencies": {
+    "nodemon": "^2.0.19"
+  }
 }
